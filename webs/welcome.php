@@ -60,3 +60,9 @@
 	  	<td valign="top"><div align="center"><font face="comic sans" size="4" color="#FF0000">Hello guys ... Anda berada di halaman utama web GIS untuk menampilkan peta lokasi. </font> </div></td>
 		<td>&nbsp;</td>
 	  </tr>
+	  <p align="center">&nbsp;</p>
+	  <p align="center"><br>
+	    <img src="./img/GIS.jpg" border="0" title="Gambar Gis"></a></p>
+	</blockquote>
+	</td>
+</tr>
