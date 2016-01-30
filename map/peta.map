@@ -16,3 +16,4 @@ IMAGECOLOR  255 255 255
 LAYER 
 NAME      District	
     DATA      fdistrict	 
+    STATUS    ON      
