@@ -15,7 +15,7 @@
 	<td valign="top"><p>&nbsp;</p>
 	<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Hii Teman-Teman ...</font></p>
 	<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Kita dari kelompok tugas besar GIS yang beranggotakan 4 orang mahasiswi yaitu:</font></p>
-	<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">1. Rosnani Nasrul</font></p>
+	<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">1. Rosnani Nasrul dengan npm 1134015</font></p>
 	<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">2. Nur Mulyana Mustari</font></p>
 	<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">3. Nur Fatimah Hasan</font></p>
 	<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">4. Hariyati Suarni Nurindah</font></p>
