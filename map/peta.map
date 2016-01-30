@@ -8,5 +8,5 @@ EXTENT      -119.88000 36.53000 -119.33000 36.89000
 STATUS      ON
 UNITS       DD
 SIZE        350 300
-SHAPEPATH   "c:\ms4w\apps\map\" 
+SHAPEPATH   "c:\ms4w\apps\map\shp" 
 IMAGECOLOR  255 255 255  	
