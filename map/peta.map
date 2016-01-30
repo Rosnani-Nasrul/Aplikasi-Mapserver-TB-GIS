@@ -3,7 +3,7 @@
 # 
 MAP                                                     # tanda awal mapfile
 NAME        District 
-IMAGETYPE   JPEG
+IMAGETYPE   JPEG                                        # bisa PNG, GIF, dll
 EXTENT      -119.88000 36.53000 -119.33000 36.89000
 STATUS      ON
 UNITS       DD
