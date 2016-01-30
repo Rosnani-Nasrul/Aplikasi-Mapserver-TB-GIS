@@ -18,3 +18,4 @@ NAME      District
     DATA      fdistrict	 
     STATUS    ON      
     TYPE      POLYGON 	
+    CLASS
