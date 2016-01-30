@@ -33,3 +33,15 @@
 		//eval("document.all.neonlight"+m).style.color=neonbasecolor
 		crossref(m).style.color=neonbasecolor
 		}
+		//bergantian dan merubah karakter ke warna yang lain
+		crossref(n).style.color=neontextcolor
+		
+		if (n<message.length-1)
+		n++
+		else{
+		n=0
+		clearInterval(flashing)
+		setTimeout("beginneon()",1500)
+		return
+		}
+		}
