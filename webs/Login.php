@@ -65,7 +65,7 @@ else
 	<td bgcolor="#FF0000">&nbsp;</td>
 	<td>
 	<table width="250" align="center">
-		<tr><td width="157"><font face="verdana" size="2">&nbsp;
+		<tr><td width="157"><font face="times new roman" size="2">&nbsp;
 		</font>
 		    
 		<form name="masuk" action="login.php" method="post">
