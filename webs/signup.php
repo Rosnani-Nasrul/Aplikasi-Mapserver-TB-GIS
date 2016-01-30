@@ -20,4 +20,6 @@ if (isset($_POST['daftar']))
 		{
 			echo "<script> document.location.href='signup.php?status=Selamat bergabung dengan situs kami.'; </script>";
 	}
+	}
+	}
 ?>
