@@ -17,7 +17,7 @@ LAYER
     NAME      District	
     DATA      fdistrict	 
     STATUS    ON         
-    TYPE      LINE
+    TYPE      POLYGON 
 CLASS
 NAME   "District"	 
 STYLE
