@@ -31,3 +31,4 @@ NAME      bupati_poly_region
  DATA      JalanRuas_polyline
  STATUS    ON
  TYPE      LINE
+ CLASS
