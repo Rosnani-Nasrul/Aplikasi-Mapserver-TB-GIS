@@ -9,6 +9,7 @@ if (isset($_POST['daftar']))
 	
 	if (!empty($nama) && !empty($user) && !empty($email) && !empty($password))
 	{
+		$cek=mysql_db_query($db,"select * from daftar where user='$user'",$koneksi);
 	}
 	}
 ?>
