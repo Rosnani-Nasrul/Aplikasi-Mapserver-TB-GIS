@@ -18,5 +18,6 @@ if (isset($_POST['daftar']))
 		$insert=mysql_db_query($db,"insert into daftar values('','$nama','$user','$email','$password','$tanggal')",$koneksi);
 		if ($insert)
 		{
+			echo "<script> document.location.href='signup.php?status=Selamat bergabung dengan situs kami.'; </script>";
 	}
 ?>
