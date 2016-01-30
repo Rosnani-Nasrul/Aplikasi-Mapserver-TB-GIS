@@ -19,3 +19,4 @@ NAME      bupati_poly_region
  STATUS   ON
  TYPE      POLYGON
  CLASS
+ NAME   "bupati_poly_region"
