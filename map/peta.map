@@ -13,3 +13,8 @@ MAP                  	# tanda awal mapfile
 #
 # Mulai pendefinisian layers
 #
+LAYER 		 
+    NAME      
+    DATA      fdistrict	 
+    STATUS    ON         
+    TYPE      
