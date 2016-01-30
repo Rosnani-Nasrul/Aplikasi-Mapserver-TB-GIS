@@ -20,7 +20,7 @@
 	<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">3. Nur Fatimah Hasan dengan npm 1134016</font></p>
 	<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">4. Hariyati Suarni Nurindah dengan npm 1134021</font></p>
 	<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Dari jurusan D4 Teknik Informatika kelas 3B dan kami berasaln dari daerah provinsi yang sama yaitu sulawesi selatan</font></p>
-	<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Semoga aplikasi web ini memberikan informasi yang bermanfaat bagi para pengguna dalam mengetahui peta lokasi pada web ini.</font></p>
+	<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Kami Berharap Semoga aplikasi web ini memberikan informasi yang bermanfaat bagi para pengguna dalam mengetahui peta lokasi pada web ini.</font></p>
 	</td>
 	</tr>
 	</table>
