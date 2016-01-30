@@ -66,3 +66,9 @@
 	</blockquote>
 	</td>
 </tr>
+<tr>
+    </td>
+	<td>
+   	 <p><a href="about.php">
+      <input type="button" value="About Us" name="About Us" onClick=" return cek()">
+      </a></p>
