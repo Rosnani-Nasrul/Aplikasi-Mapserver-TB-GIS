@@ -26,4 +26,4 @@ NAME      District
     END                                                 # style
 END                                                     # class
 END                                                     # Akhir definisi layer 
-END
+END                                                     # Akhir mapfile
