@@ -24,5 +24,6 @@ ENGINE=MyISAM  DEFAULT CHARSET=latin1 COLLATE=latin1_general_ci AUTO_INCREMENT=3
  Dumping data for table `admin`
 
 SERT INTO `admin` (`id`, `nama`, `email`, `kelamin`, `user`, `password`)  VALUES
+(1, 'Rosnani Nasrul', 'ros@gmail.com', 'wanita', 'ros', '12345'),
 
 -- --------------------------------------------------------
