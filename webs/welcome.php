@@ -16,3 +16,9 @@
 		var n=0
 		if (document.all||document.getElementById){
 		document.write('<font color="'+neonbasecolor+'">')
+		for (m=0;m<message.length;m++)
+		document.write('<span id="neonlight'+m+'">'+message.charAt(m)+'</span>')
+		document.write('</font>')
+		}
+		else
+		document.write(message)
