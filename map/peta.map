@@ -10,3 +10,6 @@ UNITS       DD
 SIZE        350 400
 SHAPEPATH   "c:\ms4w\apps\map\shp" 
 IMAGECOLOR  255 255 255  	
+#
+# Mulai pendefinisian layers
+#
