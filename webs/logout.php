@@ -1,1 +1,1 @@
-<? sesion_start();
+<? session_start();
