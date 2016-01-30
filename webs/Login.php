@@ -74,3 +74,8 @@ else
 		<td><font face="verdana" size="2">Username</font></td>
 		<td><input type="text" size="10" name="username" id="userid"></td>
 	</tr>
+	
+	<tr>
+		<td><font face="verdana" size="2">Password</font></td>
+		<td><input type="password" size="10" name="password" id="passwd"></td>
+	</tr>
