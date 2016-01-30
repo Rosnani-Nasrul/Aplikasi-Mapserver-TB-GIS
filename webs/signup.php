@@ -23,6 +23,6 @@ if (isset($_POST['daftar']))
 	}
 	}
 	else {
-		
+	echo "<script> document.location.href='signup.php?status=Maaf, Data yang anda kirim belum lengkap!!'; </script>";	
 	}
 ?>
