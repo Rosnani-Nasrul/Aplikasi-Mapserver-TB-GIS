@@ -72,3 +72,6 @@
    	 <p><a href="about.php">
       <input type="button" value="About Us" name="About Us" onClick=" return cek()">
       </a></p>
+	<p><a href="index.php">
+      <input type="button" value="Next" name="next" onClick=" return cek()">
+      </a></p>
