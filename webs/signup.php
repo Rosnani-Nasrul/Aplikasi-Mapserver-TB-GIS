@@ -17,5 +17,6 @@ if (isset($_POST['daftar']))
 	} else {
 		$insert=mysql_db_query($db,"insert into daftar values('','$nama','$user','$email','$password','$tanggal')",$koneksi);
 		if ($insert)
+		{
 	}
 ?>
