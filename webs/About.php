@@ -20,5 +20,5 @@
 	<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">3. Nur Fatimah Hasan</font></p>
 	<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">4. Hariyati Suarni Nurindah</font></p>
 	<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Dari jurusan D4 Teknik Informatika kelas 3B</font></p>
-	<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">
+	<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Semoga aplikasi web ini memberikan informasi yang bermanfaat bagi para pengguna dalam mengetahui peta lokasi pada web ini.</font></p>
 </body>
