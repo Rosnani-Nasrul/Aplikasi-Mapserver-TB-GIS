@@ -15,6 +15,13 @@ $loc=10;
 
 $koneksi=mysql_connect($host,$user,$pass);
 $tanggal=date("Y-m-d H:i:s");
+
+if ($koneksi)
+{
+	//echo "berhasil : )";
+}else{
+	?><script language="javascript">alert("Gagal Koneksi Database MySql !!")</script><?
+}
 ?>
 </body>
 </html>
