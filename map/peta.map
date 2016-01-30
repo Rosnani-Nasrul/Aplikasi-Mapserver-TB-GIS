@@ -18,3 +18,4 @@ LAYER
     DATA      fdistrict	 
     STATUS    ON         
     TYPE      POLYGON 
+CLASS
