@@ -5,7 +5,7 @@ MAP
 NAME        District 
 IMAGETYPE   JPEG
 EXTENT      -119.88000 36.53000 -119.33000 36.89000
-STATUS      OFF
+STATUS      ON
 UNITS       DD
 SIZE        350 300
 SHAPEPATH   "c:\ms4w\apps\map\" 
