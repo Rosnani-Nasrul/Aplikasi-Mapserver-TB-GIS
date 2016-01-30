@@ -11,6 +11,9 @@
     <br>
 <td valign="top"><div align="justify"><font face="comic sans" size="5" color="#000000"><li>Peta Bantul</li></font></div></td>
 </br>
+<br>
+<td valign="top"><div align="justify"><font face="comic sans" size="5" color="#000000"><li>Peta Distrik</li></font> </div></td>
+</br>
   </body>
 </body>
 </html>
