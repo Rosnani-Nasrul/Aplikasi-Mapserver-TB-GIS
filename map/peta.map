@@ -25,5 +25,5 @@ NAME      District
         OUTLINECOLOR 0 0 0
     END                                                 # style
 END                                                     # class
-END
+END                                                     # Akhir definisi layer 
 END
