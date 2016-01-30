@@ -24,5 +24,7 @@
 	</td>
 	</tr>
 	</table>
+	
+	</center>
 </tr>
 </body>
