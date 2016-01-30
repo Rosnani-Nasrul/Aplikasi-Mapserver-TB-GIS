@@ -25,6 +25,6 @@ SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
 --
 
 CREATE TABLE IF NOT EXISTS `admin` (
- `id` int(3) NOT NUL AUTO_INCREMENT,
+ `id` int(3) NOT NULL AUTO_INCREMENT,
  `nama` int(255) COLLATE latin1_genral_ci NOT NULL,
  `email` varchar(255) COLLATE latin1_general_ci NOT NULL,
