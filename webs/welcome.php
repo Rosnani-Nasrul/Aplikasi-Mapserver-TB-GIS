@@ -8,7 +8,7 @@
 	<font face="Arial, Helvetica, sans-serif" color="#000000" size="2"><h4>
 	  <script language="JavaScript" type="text/javascript">
 	  <!--
-		var message="Selamat Datang..."
+		var message="Selamat Datang Pada Aplikasi Web GIS Menampilkan Peta Lokasi Sederhana..."
 		var neonbasecolor="white"
 		var neontextcolor="red"
 		var flashspeed=150  //dalam milisekon
