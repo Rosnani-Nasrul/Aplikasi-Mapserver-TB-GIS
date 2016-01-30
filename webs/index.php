@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>TB GIS MAPSERVER</title>
+    <title>TB APLIKASI WEB GIS MAPSERVER</title>
   </head>
   <body>
     <td valign="top" bgcolor="#9ABC67" ><div align="center">
