@@ -57,9 +57,9 @@ else
   </script>
 <table width="30%" border="0" cellpadding="0" cellspacing="0" bordercolor="#99CC99">
 <tr> 
-	<td bgcolor="#0000FF" width="6%">&nbsp;</td>
-	<td width="70%" bgcolor="#0000FF" ><div align="center"><strong><font face="verdana" size="2" color="#FFFFFF">LOGIN</font></strong></div></td>
-	<td width="6%" bgcolor="#0000FF">&nbsp;</td>
+	<td bgcolor="#FF0000" width="6%">&nbsp;</td>
+	<td width="70%" bgcolor=#FF0000 ><div align="center"><strong><font face="verdana" size="2" color="#FFFFFF">LOGIN</font></strong></div></td>
+	<td width="6%" bgcolor=#FF0000>&nbsp;</td>
 </tr>
 <tr>
 	<td bgcolor="#0000FF">&nbsp;</td>
