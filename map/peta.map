@@ -9,3 +9,4 @@ STATUS      OFF
 UNITS       DD
 SIZE        350 300
 SHAPEPATH   "c:\ms4w\apps\map\" 
+IMAGECOLOR  255 255 255  	
