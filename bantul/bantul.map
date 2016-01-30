@@ -16,3 +16,4 @@ END
 LAYER
 NAME      bupati_poly_region
  DATA      bupati_poly_region
+ STATUS   ON
