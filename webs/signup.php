@@ -14,6 +14,6 @@ if (isset($_POST['daftar']))
 		
 		if ($valid){
 			echo "<script> document.location.href='signup.php?status=Maaf, USERNAME Anda sudah ada yang punya!!'; </script>";
-	} else
+	} else {
 	}
 ?>
