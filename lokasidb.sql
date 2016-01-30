@@ -33,4 +33,4 @@ CREATE TABLE IF NOT EXISTS `admin` (
 `password` varchar(255) COLLATE latin1_general_ci NOT NULL,
 PRIMARY KEY (`nama`)
 )
-ENGINE=MyISAM  DEFAULT CHARSET=latin1
+ENGINE=MyISAM  DEFAULT CHARSET=latin1 COLLATE=latn1_general_ci AUTO_INCREMENT=3 ;
