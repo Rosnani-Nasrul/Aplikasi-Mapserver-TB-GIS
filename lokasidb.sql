@@ -32,3 +32,4 @@ CREATE TABLE IF NOT EXISTS `admin` (
 `user` int(25) COLLATE latin1_general_ci NOT NULL,
 `password` varchar(255) COLLATE latin1_general_ci NOT NULL,
 PRIMARY KEY (`nama`)
+)
