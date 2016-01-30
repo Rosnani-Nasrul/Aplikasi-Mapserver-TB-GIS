@@ -16,6 +16,7 @@
 </br>
 <p><a href="welcome.php">
   <input type="button" value="Back" name="back" onClick=" return cek()">
+  </a></p>
   </body>
 </body>
 </html>
