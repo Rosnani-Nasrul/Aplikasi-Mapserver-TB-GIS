@@ -9,4 +9,5 @@ MAP                  	# tanda awal mapfile
   UNITS       DD	# satuan derajat
   SIZE        350 400   # ukuran image
   SHAPEPATH   "c:\ms4w\apps\map\shp" 
-  IMAGECOLOR  255 255 255  	
+  IMAGECOLOR  255 255 255  
+#
