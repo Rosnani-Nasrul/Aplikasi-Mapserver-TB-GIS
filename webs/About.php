@@ -15,4 +15,5 @@
 	<td valign="top"><p>&nbsp;</p>
 	<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Hii Teman-Teman ...</font></p>
 	<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Kita dari kelompok tugas besar GIS yang beranggotakan 4 orang mahasiswi yaitu:</font></p>
+	<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">
 </body>
