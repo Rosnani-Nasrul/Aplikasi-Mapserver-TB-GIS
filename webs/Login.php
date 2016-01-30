@@ -79,3 +79,9 @@ else
 		<td><font face="verdana" size="2">Password</font></td>
 		<td><input type="password" size="10" name="password" id="passwd"></td>
 	</tr>
+	<tr>
+		<td><input type="submit" value="Login" name="login" onClick=" return cek()"></td>
+		<td>
+		<input type=button value="SignUp" onClick="window.open('signup.php','scrollwindow','top=200,left=350,width=575,height=400');">
+		</td>
+	</tr>
