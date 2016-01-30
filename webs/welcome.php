@@ -12,3 +12,7 @@
 		var neonbasecolor="white"
 		var neontextcolor="black"
 		var flashspeed=100  //dalam milisekon
+		
+		var n=0
+		if (document.all||document.getElementById){
+		document.write('<font color="'+neonbasecolor+'">')
