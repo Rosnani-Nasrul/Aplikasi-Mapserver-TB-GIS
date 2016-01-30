@@ -55,3 +55,4 @@ NAME      bupati_poly_region
  DATA      smp_bantul
  STATUS   ON
  TYPE      POINT
+ CLASS
