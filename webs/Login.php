@@ -61,3 +61,12 @@ else
 	<td width="70%" bgcolor="#0000FF" ><div align="center"><strong><font face="verdana" size="2" color="#FFFFFF">LOGIN</font></strong></div></td>
 	<td width="6%" bgcolor="#0000FF">&nbsp;</td>
 </tr>
+<tr>
+	<td bgcolor="#0000FF">&nbsp;</td>
+	<td>
+	<table width="250" align="center">
+		<tr><td width="157"><font face="verdana" size="2">&nbsp;
+		</font>
+		    
+		<form name="masuk" action="login.php" method="post">
+		<table border="0" bordercolor="blue" align="left">
