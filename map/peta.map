@@ -17,4 +17,4 @@ LAYER
     NAME      District	
     DATA      fdistrict	 
     STATUS    ON         
-    TYPE      
+    TYPE      POLYGON 
