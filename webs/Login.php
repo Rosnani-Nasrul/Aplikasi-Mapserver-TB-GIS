@@ -24,3 +24,14 @@ if (empty($cek_login))
 }
 else
 {
+  //ubah status login
+  $update_stat=mysql_db_query($db,"update daftar set status='1' where id='$user_id'",$koneksi);
+  session_register('user_id');
+  session_register('user_name');
+  ?>
+  <script languange="javascript">allert("anda berhasil login");</script>
+  <?
+}
+
+}
+?>
