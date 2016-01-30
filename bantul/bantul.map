@@ -28,3 +28,4 @@ NAME      bupati_poly_region
  END
  LAYER
  NAME      JalanRuas_polyline
+ DATA      JalanRuas_polyline
