@@ -13,6 +13,7 @@ if (isset($_POST['daftar']))
 		$valid=mysql_num_rows($cek);
 		
 		if ($valid){
+			echo "<script> document.location.href='signup.php?status=Maaf, USERNAME Anda sudah ada yang punya!!'; </script>";
 	}
 	}
 ?>
