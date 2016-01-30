@@ -22,5 +22,7 @@ if (isset($_POST['daftar']))
 	}
 	}
 	}
-	else
+	else {
+		
+	}
 ?>
