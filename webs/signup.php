@@ -6,4 +6,6 @@ if (isset($_POST['daftar']))
 	$user=$_POST['user'];
 	$email=$_POST['email'];
 	$password=md5($_POST['password']);
+	
+	if (!empty($nama) && !empty($user) && !empty($email) && !empty($password))
 ?>
