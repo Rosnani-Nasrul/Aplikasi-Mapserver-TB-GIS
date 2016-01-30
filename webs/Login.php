@@ -62,7 +62,7 @@ else
 	<td width="6%" bgcolor="#FF0000">&nbsp;</td>
 </tr>
 <tr>
-	<td bgcolor="#0000FF">&nbsp;</td>
+	<td bgcolor="#FF0000">&nbsp;</td>
 	<td>
 	<table width="250" align="center">
 		<tr><td width="157"><font face="verdana" size="2">&nbsp;
@@ -91,13 +91,13 @@ else
 		</td></tr>
 	</table>
 	</td>
-	<td bgcolor="#0000FF">&nbsp;</td>
+	<td bgcolor="#FF0000">&nbsp;</td>
 	<td width="2%"></td>
 </tr>
 <tr> 
 	<td width="6%" bgcolor="#0000FF">&nbsp;</td>
-	<td bgcolor="#0000FF" ><div align="center"><strong><font face="verdana" size="3"></font></strong></div></td>
-	<td bgcolor="#0000FF">&nbsp;</td>
+	<td bgcolor="#FF0000" ><div align="center"><strong><font face="verdana" size="3"></font></strong></div></td>
+	<td bgcolor="#FF0000">&nbsp;</td>
 </tr>
 </table>
 </html>
