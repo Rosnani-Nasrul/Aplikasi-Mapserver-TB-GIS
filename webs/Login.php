@@ -70,3 +70,7 @@ else
 		    
 		<form name="masuk" action="login.php" method="post">
 		<table border="0" bordercolor="blue" align="left">
+	<tr>	
+		<td><font face="verdana" size="2">Username</font></td>
+		<td><input type="text" size="10" name="username" id="userid"></td>
+	</tr>
