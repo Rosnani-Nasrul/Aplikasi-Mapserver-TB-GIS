@@ -27,13 +27,15 @@
 		var crossobj=document.all? eval("document.all.neonlight"+number) : document.getElementById("neonlight"+number)
 		return crossobj
 		}
+		
 		//Mengubah semua karakter ke warna dasar
 		if (n==0){
 		for (m=0;m<message.length;m++)
 		//eval("document.all.neonlight"+m).style.color=neonbasecolor
 		crossref(m).style.color=neonbasecolor
 		}
-		//bergantian dan merubah karakter ke warna yang lain
+		
+		
 		crossref(n).style.color=neontextcolor
 		
 		if (n<message.length-1)
