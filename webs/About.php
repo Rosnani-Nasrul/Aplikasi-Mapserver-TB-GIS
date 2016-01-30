@@ -9,7 +9,7 @@
 <table width="100%" cellspacing="5" cellpadding="2" >
 <tr>
 <td bgcolor="#0000FF" colspan="5"><div align="center">
-  <font color="#FFFFFF" face="Geneva, Arial, Helvetica, sans-serif"><strong>ABOUT US</strong></font></div>
+  <font color="#FFFFFF" face="Geneva, Arial, Helvetica, sans-serif"><strong>About Us</strong></font></div>
 </td>
 <tr>
 	<td valign="top"><p>&nbsp;</p>
