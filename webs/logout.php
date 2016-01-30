@@ -1,2 +1,2 @@
 <? session_start();
-if (session_is_regstered('user_id')
+if (session_is_regstered('user_id'))
