@@ -1,5 +1,5 @@
 <html>
-<head><title>Welcome to Web Gis Menampilkan Peta Lokasi</title></head>
+<head><title>Welcome to Aplikasi Web GIS Menampilkan Peta Lokasi Sederhana</title></head>
 <body>
 <table>
 <tr>
