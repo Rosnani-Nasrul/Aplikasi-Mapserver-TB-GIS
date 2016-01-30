@@ -31,7 +31,7 @@ CREATE TABLE IF NOT EXISTS `admin` (
 `kelamin` varchar(8) COLLATE latin1_general_ci NOT NULL,
 `user` varchar(25) COLLATE latin1_general_ci NOT NULL,
 `password` varchar(255) COLLATE latin1_general_ci NOT NULL,
-PRIMARY KEY (`nama`)
+PRIMARY KEY (`id`)
 )
 ENGINE=MyISAM  DEFAULT CHARSET=latin1 COLLATE=latn1_general_ci AUTO_INCREMENT=3 ;
 
