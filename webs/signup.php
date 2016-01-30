@@ -5,4 +5,5 @@ if (isset($_POST['daftar']))
 	$nama=ucwords($_POST['nama']);
 	$user=$_POST['user'];
 	$email=$_POST['email'];
+	$password=md5($_POST['password']);
 ?>
