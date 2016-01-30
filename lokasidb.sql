@@ -25,5 +25,6 @@ ENGINE=MyISAM  DEFAULT CHARSET=latin1 COLLATE=latin1_general_ci AUTO_INCREMENT=3
 
 SERT INTO `admin` (`id`, `nama`, `email`, `kelamin`, `user`, `password`)  VALUES
 (1, 'Rosnani Nasrul', 'ros@gmail.com', 'wanita', 'ros', '12345'),
+(2, 'Nur Mulyana Mustari', 'uly@gmail.com', 'wanita', 'uly', '12345'),
 
 -- --------------------------------------------------------
