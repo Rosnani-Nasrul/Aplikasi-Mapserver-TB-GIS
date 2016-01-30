@@ -11,7 +11,7 @@
 		var message="Selamat Datang..."
 		var neonbasecolor="white"
 		var neontextcolor="red"
-		var flashspeed=100  //dalam milisekon
+		var flashspeed=150  //dalam milisekon
 		
 		var n=0
 		if (document.all||document.getElementById){
