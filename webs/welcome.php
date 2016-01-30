@@ -28,7 +28,7 @@
 		return crossobj
 		}
 		
-		//Mengubah semua karakter ke warna dasar
+		
 		if (n==0){
 		for (m=0;m<message.length;m++)
 		//eval("document.all.neonlight"+m).style.color=neonbasecolor
