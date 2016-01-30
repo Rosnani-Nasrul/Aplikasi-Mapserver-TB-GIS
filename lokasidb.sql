@@ -14,7 +14,7 @@ CREATE TABLE IF NOT EXISTS `admin` (
  `id` varchar(3) NOT NULL AUTO_INCREMENT,
  `nama` Varchar(255) NOT NULL,
  `email` varchar(255) NOT NULL,
-`kelamin` varchar(8) COLLATE latin1_general_ci NOT NULL,
+`kelamin` varchar(8) NOT NULL,
 `user` varchar(25) COLLATE latin1_general_ci NOT NULL,
 `password` varchar(255) COLLATE latin1_general_ci NOT NULL,
 PRIMARY KEY (`id`)
