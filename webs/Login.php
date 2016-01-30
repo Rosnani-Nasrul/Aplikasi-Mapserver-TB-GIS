@@ -85,3 +85,19 @@ else
 		<input type=button value="SignUp" onClick="window.open('signup.php','scrollwindow','top=200,left=350,width=575,height=400');">
 		</td>
 	</tr>
+</table>
+		</form>
+		
+		</td></tr>
+	</table>
+	</td>
+	<td bgcolor="#0000FF">&nbsp;</td>
+	<td width="2%"></td>
+</tr>
+<tr> 
+	<td width="6%" bgcolor="#0000FF">&nbsp;</td>
+	<td bgcolor="#0000FF" ><div align="center"><strong><font face="verdana" size="3"></font></strong></div></td>
+	<td bgcolor="#0000FF">&nbsp;</td>
+</tr>
+</table>
+</html>
