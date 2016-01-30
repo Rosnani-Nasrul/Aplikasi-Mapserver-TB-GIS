@@ -18,5 +18,5 @@
 	<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">1. Rosnani Nasrul</font></p>
 	<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">2. Nur Mulyana Mustari</font></p>
 	<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">3. Nur Fatimah Hasan</font></p>
-	<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">
+	<p align="justify"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">4. Hariyati Suarni Nurindah</font></p>
 </body>
