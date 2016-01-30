@@ -22,3 +22,4 @@ NAME      bupati_poly_region
  NAME   "bupati_poly_region"
  STYLE
  COLOR 162 235 118
+ OUTLINECOLOR 0 0 0
