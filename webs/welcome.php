@@ -10,7 +10,7 @@
 	  <!--
 		var message="Selamat Datang..."
 		var neonbasecolor="white"
-		var neontextcolor="black"
+		var neontextcolor="red"
 		var flashspeed=100  //dalam milisekon
 		
 		var n=0
