@@ -30,3 +30,4 @@ CREATE TABLE IF NOT EXISTS `admin` (
  `email` varchar(255) COLLATE latin1_general_ci NOT NULL,
 `kelamin` varchar(8) COLLATE latin1_geeral_ci NOT NULL,
 `user` int(25) COLLATE latin1_general_ci NOT NULL,
+`password` varchar(255) COLLATE latin1_general_ci NOT NULL,
