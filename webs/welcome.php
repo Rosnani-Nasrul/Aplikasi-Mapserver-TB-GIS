@@ -52,3 +52,11 @@
 		}
 		beginneon()
 		//-->
+		
+</script>
+	</h4></font>
+	  <table>
+	  <tr>
+	  	<td valign="top"><div align="center"><font face="comic sans" size="4" color="#FF0000">Hello guys ... Anda berada di halaman utama web GIS untuk menampilkan peta lokasi. </font> </div></td>
+		<td>&nbsp;</td>
+	  </tr>
