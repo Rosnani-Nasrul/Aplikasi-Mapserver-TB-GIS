@@ -29,3 +29,4 @@ NAME      bupati_poly_region
  LAYER
  NAME      JalanRuas_polyline
  DATA      JalanRuas_polyline
+ STATUS    ON
