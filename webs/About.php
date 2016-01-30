@@ -1,7 +1,7 @@
 <? ?>
 <html>
 <head>
-<title>Web GIS Menampilkan Peta Lokasi</title>
+<title>Aplikasi Web GIS Menampilkan Peta Lokasi Sederhana</title>
 <link rel="shortcut icon" href="./img/favicon.ico" type="image/x-icon">
 </head>
 <body>
