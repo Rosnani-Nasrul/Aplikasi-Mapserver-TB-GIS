@@ -22,3 +22,8 @@
 		}
 		else
 		document.write(message)
+		
+		function crossref(number){
+		var crossobj=document.all? eval("document.all.neonlight"+number) : document.getElementById("neonlight"+number)
+		return crossobj
+		}
