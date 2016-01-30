@@ -19,3 +19,4 @@ NAME      District
     STATUS    ON      
     TYPE      POLYGON 	
     CLASS
+    NAME   "District"	 
