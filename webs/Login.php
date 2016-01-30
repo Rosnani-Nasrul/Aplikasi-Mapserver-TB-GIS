@@ -30,6 +30,7 @@ else
   session_register('user_name');
   ?>
   <script languange="javascript">allert("anda berhasil login");</script>
+  <script> document.location.href='index.php?page=4'; </script>
   <?
 }
 
