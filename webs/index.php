@@ -15,6 +15,7 @@
 <td valign="top"><div align="justify"><font face="comic sans" size="5" color="#000000"><li>Peta Distrik</li></font> </div></td>
 </br>
 <p><a href="welcome.php">
+  <input type="button" value="Back" name="back" onClick=" return cek()">
   </body>
 </body>
 </html>
