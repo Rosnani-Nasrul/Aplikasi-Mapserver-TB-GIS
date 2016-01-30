@@ -16,5 +16,6 @@ if (isset($_POST['daftar']))
 			echo "<script> document.location.href='signup.php?status=Maaf, USERNAME Anda sudah ada yang punya!!'; </script>";
 	} else {
 		$insert=mysql_db_query($db,"insert into daftar values('','$nama','$user','$email','$password','$tanggal')",$koneksi);
+		if ($insert)
 	}
 ?>
