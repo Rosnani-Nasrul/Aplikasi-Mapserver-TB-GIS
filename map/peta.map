@@ -7,7 +7,7 @@ IMAGETYPE   JPEG                                        # bisa PNG, GIF, dll
 EXTENT      -119.88000 36.53000 -119.33000 36.89000     # B1,L1; B2,L2
 STATUS      ON
 UNITS       DD                                          # satuan derajat
-SIZE        350 400
+SIZE        350 400                                     # ukuran image
 SHAPEPATH   "c:\ms4w\apps\map\shp" 
 IMAGECOLOR  255 255 255  	
 #
