@@ -24,6 +24,6 @@ NAME      District
         COLOR 179 243 251 
         OUTLINECOLOR 0 0 0
     END                                                 # style
-END
+END                                                     # class
 END
 END
