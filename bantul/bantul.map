@@ -18,3 +18,4 @@ NAME      bupati_poly_region
  DATA      bupati_poly_region
  STATUS   ON
  TYPE      POLYGON
+ CLASS
