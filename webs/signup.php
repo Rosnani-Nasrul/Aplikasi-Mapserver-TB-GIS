@@ -8,4 +8,7 @@ if (isset($_POST['daftar']))
 	$password=md5($_POST['password']);
 	
 	if (!empty($nama) && !empty($user) && !empty($email) && !empty($password))
+	{
+	}
+	}
 ?>
