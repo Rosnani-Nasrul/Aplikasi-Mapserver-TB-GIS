@@ -11,6 +11,8 @@ if (isset($_POST['daftar']))
 	{
 		$cek=mysql_db_query($db,"select * from daftar where user='$user'",$koneksi);
 		$valid=mysql_num_rows($cek);
+		
+		if ($valid)
 	}
 	}
 ?>
