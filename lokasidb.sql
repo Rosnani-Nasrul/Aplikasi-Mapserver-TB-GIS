@@ -33,7 +33,7 @@ CREATE TABLE IF NOT EXISTS `admin` (
 `password` varchar(255) COLLATE latin1_general_ci NOT NULL,
 PRIMARY KEY (`id`)
 )
-ENGINE=MyISAM  DEFAULT CHARSET=latin1 COLLATE=latn1_general_ci AUTO_INCREMENT=3 ;
+ENGINE=MyISAM  DEFAULT CHARSET=latin1 COLLATE=latin1_general_ci AUTO_INCREMENT=3 ;
 
  Dumping data for table `admn`
 
