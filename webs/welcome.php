@@ -78,3 +78,8 @@
       <p><a href="login.php">
       <input type="button" value="Logout" name="logout" onClick=" return cek()">
     </a></p>
+    </td>
+</tr>
+</table>
+</body>
+</html>
