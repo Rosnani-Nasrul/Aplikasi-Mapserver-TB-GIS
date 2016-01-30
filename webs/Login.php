@@ -36,3 +36,22 @@ else
 
 }
 ?>
+
+<html>
+  <script languange="javascript">
+  function cek(){
+    var user=document.getElementById('userid').value;
+    var pass= document.getElementById('passwd').value;
+	if(user.replace(/^\s+|\s+$/g, '')==''){
+		alert('Maaf, Username Anda masih kosong !');
+		return false;
+	} 
+	if(pass.replace(/^\s+|\s+$/g, '')==''){
+		alert('Maaf, Password Anda masih kosong  !');
+		return false;
+	}
+	return true;
+}
+</script>
+  }
+</html>
