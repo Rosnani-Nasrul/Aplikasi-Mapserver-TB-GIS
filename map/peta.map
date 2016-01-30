@@ -14,7 +14,7 @@ MAP                  	# tanda awal mapfile
 # Mulai pendefinisian layers
 #
 LAYER 		 
-    NAME      
+    NAME      District	
     DATA      fdistrict	 
     STATUS    ON         
     TYPE      
