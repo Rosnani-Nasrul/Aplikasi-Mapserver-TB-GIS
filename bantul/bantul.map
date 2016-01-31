@@ -1,0 +1,82 @@
+MAP
+NAME        Bantul
+IMAGETYPE   JPEG
+EXTENT      408475 9110524.671502 450902 9144402.401892
+STATUS     ON
+UNITS       METERS
+SIZE        1000 1000
+SHAPEPATH   "c:\ms4w\apps\bantul\shp"
+IMAGECOLOR  255 255 255
+SYMBOL
+NAME "circle"
+TYPE ELLIPSE
+POINTS 1 1 END
+FILLED TRUE
+END
+LAYER
+NAME      bupati_poly_region
+ DATA      bupati_poly_region
+ STATUS   ON
+ TYPE      POLYGON
+ CLASS
+ NAME   "bupati_poly_region"
+ STYLE
+ COLOR 162 235 118
+ OUTLINECOLOR 0 0 0
+ END
+ END
+ END
+ LAYER
+ NAME      JalanRuas_polyline
+ DATA      JalanRuas_polyline
+ STATUS    ON
+ TYPE      LINE
+ CLASS
+ NAME   "JalanRuas_polyline"
+ STYLE
+ COLOR 239 114 114
+ END
+ END
+ END
+ LAYER
+ NAME      Jalanutama_polyline
+ DATA      Jalanutama_polyline
+ STATUS    ON
+ TYPE      LINE
+ CLASS
+ NAME   "Jalanutama_polyline"
+ STYLE
+ COLOR 32 72 213
+ END
+ END
+ END
+ LAYER
+ NAME      smp_bantul
+ DATA      smp_bantul
+ STATUS   ON
+ TYPE      POINT
+ CLASS
+ NAME   "smp_bantul"
+ STYLE
+ COLOR 0 0 0
+ size 10
+ SYMBOL 1
+ END
+ END
+ END
+ LAYER
+ NAME    labelsmp
+ DATA    smp_bantul
+ TYPE ANNOTATION
+ STATUS ON
+ LABELITEM "nama_smp"
+ CLASS
+ LABEL
+ COLOR 242 0 6
+ SIZE MEDIUM
+ POSITION AUTO
+ PARTIALS FALSE
+ END
+ END
+ END
+ END
