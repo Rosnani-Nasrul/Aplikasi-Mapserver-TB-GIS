@@ -1,3 +1,3 @@
 <?php
-echo ms_GetVersion();
+echo ms_GetVersion(); 
 ?>
