@@ -6,8 +6,8 @@ MAP
   NAME ITASCA
   STATUS ON
   SIZE 500 500                                #Ukuran Image
-  EXTENT 106.6994 -6.6793 106.9081 -6.4564    # Titik Lokasi Gambar
-  IMAGETYPE PNG
+  EXTENT 106.6994 -6.6793 106.9081 -6.4564    #Titik Lokasi Gambar
+  IMAGETYPE PNG                               #Tipe Gambar Yang digunakan
   SHAPEPATH "shp"
   IMAGECOLOR 255 255 255
   
