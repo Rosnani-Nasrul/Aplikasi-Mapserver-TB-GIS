@@ -1,0 +1,141 @@
+<html>
+<head>
+<title>MS4W - MapServer 4 Windows</title>
+<style type="text/css">
+<!--
+body {  font-family: Arial, Helvetica, sans-serif; font-size: 12px} -->
+</style>
+</head>
+<body bgcolor="#FFFFFF" text="#000000" link="#0000FF">
+<h1>MS4W - MapServer 4 Windows - version 3.0.6</h1>
+<a href="http://www.gatewaygeomatics.com"><img src="images/gatewaygeomatics-logo-small.jpg" border="0" alt="Developed by Gateway Geomatics"/></a>
+<h2>Introduction</h2>
+<p>Welcome to MS4W v3.0.6, the MapServer package for Windows, developed by
+<a href="http://www.gatewaygeomatics.com">Gateway Geomatics</a>. 
+MS4W is designed to get you up and running with <a href="http://www.mapserver.org">MapServer</a> with very little
+configuration.</p>
+<p>There are some important notes about MS4W:</p>
+<ul>
+  <li>Since it is not a true installer, it will not install to any location. It
+      <i><b>*** MUST ***</b></i> be installed at the root of one of the drives
+      on your system (e.g. C:/ or D:/).</li>
+  <li>Pre-configured addon packages for MS4W can be downloaded from the 
+     <a href="http://www.maptools.org/ms4w/index.phtml?page=downloads.html">MS4W Downloads</a>
+     page.</li>
+  <li>The MS4W addon packages must be extracted at the same root as the base
+      installer, and files must be overwritten.</li>
+</ul>
+<h2>Documentation</h2>
+<p>Please view your local <a href="/README_INSTALL.html">README file</a> for full documentation
+about your MS4W package.</p>
+<h2>Features<a name="Features"></a></h2>
+<p>MS4W contains default installations of Apache, PHP, MapServ, MapScript
+  and some sample applications. It is structured in such a way as to allow
+  upgrading individual components without affecting the install.
+  The base installer package comes pre-configured with the following software:</p>
+<ul>
+  <li><a href="http://httpd.apache.org/docs/2.2/">Apache 2.2.22</a> (with OpenSSL 0.9.8t)</li>
+  <li>PHP 5.4.3</li>
+  <li>GDAL 1.9.1</li>  
+  <li>MapServer CGI 6.0.3 at <a href="/cgi-bin/mapserv.exe">/cgi-bin/mapserv.exe</a></li>
+  <li>MapScript 6.0.3 flavours:</li>
+    <ul>
+     <li>php_mapscript.dll at <i>\ms4w\Apache\php\ext</i></li>
+     <li>CSharp mapscript at <i>\ms4w\Apache\cgi-bin\mapscript\csharp</i></li>
+     <li>Java mapscript at <i>\ms4w\Apache\cgi-bin\mapscript\java</i></li>
+     <li>Python mapscript at <i>\ms4w\Apache\cgi-bin\mapscript\python</i></li>
+    </ul>
+  <li>Commandline Utilities</li>
+  <ul>
+    <li>execute <b>\ms4w\setenv.bat</b> to use the utilities</li> 
+    <li><a href="http://www.mapserver.org/utilities/">MapServer Utilities</a></li>
+    <ul>
+      <li>physically located at <i>\ms4w\tools\mapserv\</i></li>
+    </ul>
+    <li><a href="http://www.gdal.org/gdal_utilities.html">GDAL</a>/<a href="http://www.gdal.org/ogr_utilities.html">OGR</a> Utilities</li>
+    <ul>
+      <li>physically located at <i>\ms4w\tools\gdal-ogr\</i></li>
+    </ul>   
+    <li><a href="http://trac.osgeo.org/proj/">PROJ.4 Utilities</a></li>
+    <ul>
+      <li>physically located at <i>\ms4w\proj\bin\</i></li>
+    </ul>  
+    <li><a href="http://shapelib.maptools.org/shapelib-tools.html">Shapelib Utilities</a></li>
+    <ul>
+      <li>physically located at <i>\ms4w\tools\shapelib\</i></li>
+    </ul> 
+    <li>Shpdiff Utility</li>
+    <ul>
+      <li>physically located at <i>\ms4w\tools\shpdiff\</i></li>
+    </ul>  
+    <li>Shp2tile Utility</li>
+    <ul>
+      <li>physically located at <i>\ms4w\tools\shp2tile\</i></li>
+    </ul>  
+    <li><a href="http://avce00.maptools.org/avce00/avce00.html">AVCE00 Utility</a></li>
+    <ul>
+      <li>physically located at <i>\ms4w\tools\avce00\</i></li>
+    </ul>    
+  </ul>
+  <li>OWTChart utility:</li>
+    <ul>
+      <li><a href="/owtchart/owtchart.html">introduction</a></li>
+      <li><a href="/cgi-bin/owtchart.exe">owtchart.exe</a></li>
+      <li><a href="/cgi-bin/gifsample.exe">gifsample.exe</a></li>
+    </ul>
+  <li>OGR/PHP Extension (<a href="/php_ogr/php_ogr_documentation.html">documentation</a>) (<a href="/phpinfo.php">phpinfo</a>)</li>
+</ul>
+
+<?php
+// *include* pkg files in the form app_name.pkg.html
+$nApps = 0;
+$szApps = "";
+$szDir = dirname(__FILE__);
+//remove old index.html if possible
+if (is_file( $szDir."/index.html" ))
+{
+    $bResult = @unlink( $szDir."/index.html" );
+    if ($bResult === false)
+    {
+        echo "<p>Note: unable to remove <b>index.html</b>.  Please remove this";
+        echo "file manually ($szDir\\index.html).  You will see this message";
+        echo "until this file is removed.</p>";
+    }
+    else
+    {
+        echo "<p>Note: old index.phtml page sucessfully removed (you will not";
+        echo "see this message again)</p>";
+    }
+}
+if (is_dir($szDir))
+{
+    if ($hDir = opendir($szDir))
+    {
+        while (($szFile = readdir( $hDir )) !== false)
+        {
+            if ( strcasecmp( substr( $szFile, -9 ), ".pkg.html" ) == 0 )
+            {
+                $szApps .= implode( "\n", file( $szDir."/".$szFile ) )."\n";
+                $nApps ++;
+            }
+        }
+        closedir( $hDir );
+    }
+    else
+    {
+        echo "<p>No packages, unable to open $szDir.</p>";
+    }
+}
+else
+{
+    echo "<p>No packages, $szDir is not a directory.</p>";
+}
+?>
+<h2>Applications<a name="Applications"></a></h2>
+<p>There <?php echo ($nApps == 1) ? "is" : "are" ?> currently
+   <?php echo $nApps?> MS4W addon package<?php echo ($nApps == 1) ? "" : "s" ?>
+   installed.
+</p>
+<?php echo $szApps; ?>
+</body>
+</html>
