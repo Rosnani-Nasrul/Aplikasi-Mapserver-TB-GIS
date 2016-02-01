@@ -77,9 +77,6 @@
 	<p><a href="index.php">
       <input type="button" value="Next" name="next" onClick=" return cek()">
       </a></p>
-      <p><a href="login.php">
-      <input type="button" value="Logout" name="logout" onClick=" return cek()">
-    </a></p>
     </td>
 </tr>
 </table>
