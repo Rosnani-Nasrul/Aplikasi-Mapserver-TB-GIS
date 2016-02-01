@@ -2,7 +2,7 @@
 
 Hello guysss ...
 
-Ini adalah aplikasi mapserver sederhana untuk menampilkan peta lokasi oleh kelompok TB GIS Mapserver oleh :
+Ini adalah aplikasi mapserver sederhana untuk menampilkan peta lokasi sederhana oleh kelompok TB GIS Mapserver oleh :
 
 1. Rosnani Nasrul                 (1134015)
 
@@ -12,6 +12,8 @@ Ini adalah aplikasi mapserver sederhana untuk menampilkan peta lokasi oleh kelom
 
 4. Hariyati Suarni Nurindah       (1134021)
 
-dari jurusan D4 Teknik Informatika Angkatan 2013
+Kami dari jurusan D4 Teknik Informatika Kelas 3B Angkatan 2013
 
-Semoga aplikasi ini dapat bermanfaat bagi pembaca :)
+Semoga aplikasi ini dapat bermanfaat bagi pembaca :) 
+
+Terima Kasih Kunjungannya ^_^
