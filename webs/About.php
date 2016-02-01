@@ -6,9 +6,9 @@
 </head>
 <body>
   <center>
-<table width="100%" cellspacing="5" cellpadding="2" >
+<table width="100%" cellspacing="8" cellpadding="2" >
 <tr>
-<td bgcolor="#FF0000" colspan="5"><div align="center">
+<td bgcolor="#FF0000" colspan="8"><div align="center">
   <font color="#FFFFFF" face="Times New Roman"><strong>About Us</strong></font></div>
 </td>
 <tr>
