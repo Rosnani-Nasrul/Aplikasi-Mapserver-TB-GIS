@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>TB APLIKASI WEB GIS MAPSERVER</title>
+    <title>Tugas Besar Aplikasi Web Gis Peta Lokasi Sederhana</title>
   </head>
   <body>
     <td valign="top" bgcolor="#9ABC67" ><div align="center">
