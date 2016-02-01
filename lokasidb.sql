@@ -27,6 +27,6 @@ SERT INTO `admin` (`id`, `nama`, `email`, `kelamin`, `user`, `password`)  VALUES
 (1, 'Rosnani Nasrul', 'ros@gmail.com', 'wanita', 'ros', '12345'),
 (2, 'Nur Mulyana Mustari', 'uly@gmail.com', 'wanita', 'uly', '12345'),
 (3, 'Nur Fatimah Hasan', 'nur@gmail.com', 'wanita', 'nur', '12345'),
-(4, 'Hariyati Suarni Nurindah', 'rini@gmail.com', 'wanita', 'rini', '12345'),
+(4, 'Hariyati Suarni Nurindah', 'rini@gmail.com', 'wanita', 'rini', '12345');
 
 -- --------------------------------------------------------
